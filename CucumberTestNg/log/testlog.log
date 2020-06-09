@@ -1,0 +1,122 @@
+2020-06-05 19:52:19,447 - testBase -INFO - ************ Lanchink on chrome browser **********
+2020-06-05 19:52:21,595 - testBase -INFO - ************ Maximize Browsr **********
+2020-06-05 19:52:25,211 - testBase -INFO - ************ Open the URL **********
+2020-06-05 19:52:25,249 - testBase -INFO - ************ Validating Title Page Before Login **********
+2020-06-05 19:53:22,050 - testBase -INFO - ************ Lanchink on chrome browser **********
+2020-06-05 19:53:24,193 - testBase -INFO - ************ Maximize Browsr **********
+2020-06-05 19:53:26,208 - testBase -INFO - ************ Open the URL **********
+2020-06-05 19:53:26,246 - testBase -INFO - ************ Validating Title Page Before Login **********
+2020-06-05 19:53:33,897 - testBase -INFO - ************ Entering UserName and Password **********
+2020-06-05 19:53:33,904 - testBase -INFO - ************ Checkin Title After login page **********
+2020-06-05 19:53:33,980 - testBase -INFO - ************ Click on Customer Menu **********
+2020-06-05 19:53:36,538 - testBase -INFO - ************ Click on CustomerMenuItem **********
+2020-06-05 19:53:38,131 - testBase -INFO - ************ Click on ADD Button **********
+2020-06-05 19:53:38,260 - testBase -INFO - ************ Enter the Email.id **********
+2020-06-05 19:53:38,337 - testBase -INFO - ************ Enter the Password **********
+2020-06-05 19:53:38,409 - testBase -INFO - ************ Enter the FirstName **********
+2020-06-05 19:53:38,485 - testBase -INFO - ************ Emter the LastName **********
+2020-06-05 19:53:38,567 - testBase -INFO - ************ Click Gender **********
+2020-06-05 19:53:38,674 - testBase -INFO - ************ Enter the DOB **********
+2020-06-05 19:53:38,752 - testBase -INFO - ************ Enter Company Name **********
+2020-06-05 19:53:38,820 - testBase -INFO - ************ Check the taxEmpty **********
+2020-06-05 19:53:38,926 - testBase -INFO - ************ Select the Vendor **********
+2020-06-05 19:53:38,949 - testBase -INFO - ************Check the Statue of the check Box **********
+2020-06-05 19:53:39,162 - testBase -INFO - ************ Enter the some valid text  **********
+2020-06-05 19:53:40,937 - testBase -INFO - ************ Click on save Button **********
+2020-06-05 19:53:41,061 - testBase -INFO - ************ Search After entry Details Verify the Email Id **********
+2020-06-05 19:53:41,186 - testBase -INFO - ************ Check the Details are created  **********
+2020-06-05 19:53:46,051 - testBase -INFO - ************ LogOut Button **********
+2020-06-05 20:39:19,552 - testBase -INFO - ************ Lanchink on chrome browser **********
+2020-06-05 20:40:03,624 - testBase -INFO - ************ Lanchink on chrome browser **********
+2020-06-05 20:40:05,788 - testBase -INFO - ************ Maximize Browsr **********
+2020-06-05 20:40:11,732 - testBase -INFO - ************ Open the URL **********
+2020-06-05 20:40:11,821 - testBase -INFO - ************ Validating Title Page Before Login **********
+2020-06-05 20:40:23,130 - testBase -INFO - ************ Entering UserName and Password **********
+2020-06-05 20:40:23,141 - testBase -INFO - ************ Checkin Title After login page **********
+2020-06-05 20:40:23,260 - testBase -INFO - ************ Click on Customer Menu **********
+2020-06-05 20:40:27,197 - testBase -INFO - ************ Click on CustomerMenuItem **********
+2020-06-05 20:40:29,107 - testBase -INFO - ************ Click on ADD Button **********
+2020-06-05 20:40:29,376 - testBase -INFO - ************ Enter the Email.id **********
+2020-06-05 20:40:29,513 - testBase -INFO - ************ Enter the Password **********
+2020-06-05 20:40:29,650 - testBase -INFO - ************ Enter the FirstName **********
+2020-06-05 20:40:29,778 - testBase -INFO - ************ Enter the LastName **********
+2020-06-05 20:40:29,894 - testBase -INFO - ************ Click Gender **********
+2020-06-05 20:40:30,080 - testBase -INFO - ************ Enter the DOB **********
+2020-06-05 20:40:30,235 - testBase -INFO - ************ Enter Company Name **********
+2020-06-05 20:40:30,342 - testBase -INFO - ************ Check the taxEmpty **********
+2020-06-05 20:40:30,536 - testBase -INFO - ************ Select the Vendor **********
+2020-06-05 20:40:30,577 - testBase -INFO - ************Check the Statue of the check Box **********
+2020-06-05 20:40:31,053 - testBase -INFO - ************ Enter the some valid text  **********
+2020-06-05 20:40:33,250 - testBase -INFO - ************ Click on save Button **********
+2020-06-05 20:40:33,506 - testBase -INFO - ************ Search After entry Details Verify the Email Id **********
+2020-06-05 20:40:33,738 - testBase -INFO - ************ Check the Details are created  **********
+2020-06-05 20:40:38,807 - testBase -INFO - ************ LogOut Button **********
+2020-06-08 15:37:27,844 - testBase -INFO - ************ Lanchink on chrome browser **********
+2020-06-08 15:37:30,081 - testBase -INFO - ************ Maximize Browsr **********
+2020-06-08 15:37:37,491 - testBase -INFO - ************ Open the URL **********
+2020-06-08 15:37:37,547 - testBase -INFO - ************ Validating Title Page Before Login **********
+2020-06-08 15:39:16,619 - testBase -INFO - ************ Lanchink on chrome browser **********
+2020-06-08 15:39:18,765 - testBase -INFO - ************ Maximize Browsr **********
+2020-06-08 15:39:25,783 - testBase -INFO - ************ Open the URL **********
+2020-06-08 15:39:25,832 - testBase -INFO - ************ Validating Title Page Before Login **********
+2020-06-08 15:54:50,199 - testBase -INFO - ************ Lanchink on chrome browser **********
+2020-06-08 15:54:52,338 - testBase -INFO - ************ Maximize Browsr **********
+2020-06-08 15:54:58,207 - testBase -INFO - ************ Open the URL **********
+2020-06-08 15:54:58,268 - testBase -INFO - ************ Validating Title Page Before Login **********
+2020-06-08 15:57:29,693 - testBase -INFO - ************ Lanchink on chrome browser **********
+2020-06-08 15:57:31,831 - testBase -INFO - ************ Maximize Browsr **********
+2020-06-08 15:57:35,362 - testBase -INFO - ************ Open the URL **********
+2020-06-08 15:57:35,410 - testBase -INFO - ************ Validating Title Page Before Login **********
+2020-06-08 15:57:50,257 - testBase -INFO - ************ Entering UserName and Password **********
+2020-06-08 15:57:50,264 - testBase -INFO - ************ Checkin Title After login page **********
+2020-06-08 15:57:50,336 - testBase -INFO - ************ Click on Customer Menu **********
+2020-06-08 15:57:53,135 - testBase -INFO - ************ Click on CustomerMenuItem **********
+2020-06-08 15:57:56,421 - testBase -INFO - ************ Click on ADD Button **********
+2020-06-08 15:57:56,556 - testBase -INFO - ************ Enter the Email.id **********
+2020-06-08 15:57:56,630 - testBase -INFO - ************ Enter the Password **********
+2020-06-08 15:57:56,705 - testBase -INFO - ************ Enter the FirstName **********
+2020-06-08 15:57:56,777 - testBase -INFO - ************ Enter the LastName **********
+2020-06-08 15:57:56,844 - testBase -INFO - ************ Click Gender **********
+2020-06-08 15:57:56,944 - testBase -INFO - ************ Enter the DOB **********
+2020-06-08 15:57:57,025 - testBase -INFO - ************ Enter Company Name **********
+2020-06-08 15:57:57,094 - testBase -INFO - ************ Check the taxEmpty **********
+2020-06-08 15:57:57,195 - testBase -INFO - ************ Select the Vendor **********
+2020-06-08 15:57:57,219 - testBase -INFO - ************Check the Statue of the check Box **********
+2020-06-08 15:57:57,414 - testBase -INFO - ************ Enter the some valid text  **********
+2020-06-08 15:57:59,630 - testBase -INFO - ************ Click on save Button **********
+2020-06-08 15:57:59,772 - testBase -INFO - ************ Search After entry Details Verify the Email Id **********
+2020-06-08 15:57:59,841 - testBase -INFO - ************ Check the Details are created  **********
+2020-06-08 15:58:05,031 - testBase -INFO - ************ LogOut Button **********
+2020-06-09 12:01:37,202 - testBase -INFO - ************ Lanchink on chrome browser **********
+2020-06-09 12:01:39,378 - testBase -INFO - ************ Maximize Browsr **********
+2020-06-09 12:01:41,825 - testBase -INFO - ************ Open the URL **********
+2020-06-09 12:01:41,985 - testBase -INFO - ************ Validating Title Page Before Login **********
+2020-06-09 12:01:51,163 - testBase -INFO - ************ Entering UserName and Password **********
+2020-06-09 12:01:51,178 - testBase -INFO - ************ Checkin Title After login page **********
+2020-06-09 12:01:51,354 - testBase -INFO - ************ Click on Customer Menu **********
+2020-06-09 12:01:53,473 - testBase -INFO - ************ Click on CustomerMenuItem **********
+2020-06-09 12:01:54,845 - testBase -INFO - ************ Click on ADD Button **********
+2020-06-09 12:01:55,167 - testBase -INFO - ************ Enter the Email.id **********
+2020-06-09 12:01:55,321 - testBase -INFO - ************ Enter the Password **********
+2020-06-09 12:01:55,481 - testBase -INFO - ************ Enter the FirstName **********
+2020-06-09 12:01:55,629 - testBase -INFO - ************ Enter the LastName **********
+2020-06-09 12:01:55,778 - testBase -INFO - ************ Click Gender **********
+2020-06-09 12:01:56,006 - testBase -INFO - ************ Enter the DOB **********
+2020-06-09 12:01:56,196 - testBase -INFO - ************ Enter Company Name **********
+2020-06-09 12:01:56,325 - testBase -INFO - ************ Check the taxEmpty **********
+2020-06-09 12:01:56,601 - testBase -INFO - ************ Select the Vendor **********
+2020-06-09 12:01:56,645 - testBase -INFO - ************Check the Statue of the check Box **********
+2020-06-09 12:01:57,092 - testBase -INFO - ************ Enter the some valid text  **********
+2020-06-09 12:01:58,910 - testBase -INFO - ************ Click on save Button **********
+2020-06-09 12:01:59,074 - testBase -INFO - ************ Search After entry Details Verify the Email Id **********
+2020-06-09 12:01:59,160 - testBase -INFO - ************ Check the Details are created  **********
+2020-06-09 12:02:09,957 - testBase -INFO - ************ LogOut Button **********
+2020-06-09 12:05:40,294 - testBase -INFO - ************ Lanchink on chrome browser **********
+2020-06-09 12:05:42,552 - testBase -INFO - ************ Maximize Browsr **********
+2020-06-09 12:05:46,094 - testBase -INFO - ************ Open the URL **********
+2020-06-09 12:05:46,204 - testBase -INFO - ************ Validating Title Page Before Login **********
+2020-06-09 12:06:06,765 - testBase -INFO - ************ Entering UserName and Password **********
+2020-06-09 12:06:06,783 - testBase -INFO - ************ Checkin Title After login page **********
+2020-06-09 12:06:06,921 - testBase -INFO - ************ Click on Customer Menu **********
+2020-06-09 12:06:14,087 - testBase -INFO - ************ Click on CustomerMenuItem **********
+2020-06-09 12:06:27,628 - testBase -INFO - ************ Click on ADD Button **********
